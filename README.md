@@ -3,12 +3,10 @@
 A desktop application built with Python that helps researchers analyze and query PDF documents using AI.
 
 ## Features
-- PDF document management and analysis
-- AI-powered question answering
+- Fully Local RAG based AI system
 - Interactive document visualization
 - Source highlighting in PDFs
-- Progress tracking for uploads
-- Drag-and-drop interface
+
 
 ## Requirements
 - Python 3.8+
@@ -39,9 +37,6 @@ python researchBuddy.py
 4. View AI-generated answers with source references
 5. Visualize document relationships
 6. Highlight relevant sections in source PDFs
-
-## Screenshots
-[Add screenshots of your application here]
 
 ## License
 MIT License
