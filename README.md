@@ -16,7 +16,7 @@ A desktop application built with Python that helps researchers analyze and query
 ## Installation
 1. Clone the repository
 bash
-git clone [your-repo-url]
+git clone [[your-repo-url]](https://github.com/Ahmed-ELKeshawy/researchJarvis.git)
 
 2. Install dependencies
 bash
