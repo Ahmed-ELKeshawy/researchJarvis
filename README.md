@@ -15,18 +15,18 @@ A desktop application built with Python that helps researchers analyze and query
 
 ## Installation
 1. Clone the repository
-bash
-git clone [[research-Jarvis]](https://github.com/Ahmed-ELKeshawy/researchJarvis.git)
+
+git clone https://github.com/Ahmed-ELKeshawy/researchJarvis.git
 
 2. Install dependencies
-bash
+
 pip install -r requirements.txt
 
 
 3. Install Ollama from [ollama.ai](https://ollama.ai)
 
 4. Run the application
-bash
+
 python researchBuddy.py
 
 
